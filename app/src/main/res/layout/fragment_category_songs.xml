@@ -6,7 +6,7 @@
 
         <variable
             name="categorySongData"
-            type="com.naman14.timberx.models.CategorySongData" />
+            type="com.shaigerbi.timberx.models.CategorySongData" />
     </data>
 
     <LinearLayout

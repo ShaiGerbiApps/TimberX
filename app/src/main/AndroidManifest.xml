@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.naman14.timberx">
+    package="com.shaigerbi.timberx">
 
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
@@ -100,7 +100,7 @@
 
         <meta-data
             android:name="com.google.android.gms.cast.framework.OPTIONS_PROVIDER_CLASS_NAME"
-            android:value="com.naman14.timberx.cast.CastOptionsProvider" />
+            android:value="com.shaigerbi.timberx.cast.CastOptionsProvider" />
 
     </application>
 
